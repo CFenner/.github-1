@@ -6,6 +6,6 @@ Open source home automation that puts local control and privacy first. Powered b
 
 - [Get started](https://www.home-assistant.io/getting-started/)
 - [View demo](https://demo.home-assistant.io/)
-- [Browse 1000+ integrations](https://www.home-assistant.io/integrations/)
+- [Browse almost 3000 integrations](https://www.home-assistant.io/integrations/)
 
 [![Home Assistant - A project from the Open Home Foundation](https://www.openhomefoundation.org/badges/home-assistant.png)](https://www.openhomefoundation.org/)
